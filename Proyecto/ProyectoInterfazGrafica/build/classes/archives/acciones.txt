@@ -1,0 +1,5 @@
+Ironside,Amon Amarth,4:31,resources/img/albums/amonAmarth.jpg
+Justicia Divina,Tears Of Misery,3:28,resources/img/albums/tearsOfMisery.jpg
+Heartwork,Carcass,4:33,resources/img/albums/carcass.jpg
+Entwined By Vengeance,Vital Remains,9:58,resources/img/albums/vitalRemains.jpg
+Amarok - Zorn des Lammes III,Nargaroth,9:33,resources/img/albums/nargaroth.jpg
